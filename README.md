@@ -49,10 +49,3 @@ npm run dev
 ```
 
 Abre [http://localhost:5173](http://localhost:5173) en tu navegador.
-
-## Deploy en Vercel
-
-1. Sube el proyecto a GitHub
-2. Entra a [vercel.com](https://vercel.com) y conecta tu repositorio
-3. En "Environment Variables" agrega `VITE_WEATHER_API_KEY` con tu key
-4. Deploy automático ✅
